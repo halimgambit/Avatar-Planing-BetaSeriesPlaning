@@ -1,0 +1,12 @@
+{
+	"modules": { 
+		"BetaSeriesPlaning": {
+			"version": "1.0",
+			"name": "betaseries",
+			"CleApi": "",
+			"token": "",
+			"rules": ["episode * beta * sery","episode * betaseries","beta sery","betasery","betaseries"]
+		}
+	}
+}
+			
