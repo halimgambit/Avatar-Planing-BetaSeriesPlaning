@@ -3,4 +3,4 @@
 - créer un compte sur le site betaseries ensuite ajouter vos series préferer on creant genre une bibliotheque sur le site betaseries,
 - demander une clé api et un token avec leur api et les renseigner sur le fichier propriété du plugin
 - https://api.betaseries.com , https://www.betaseries.com/
-- la régle doit inclure dans phrase a dicter :les épisode sur betaseries ou seulement betaseries
+- la régle doit inclure dans la phrase a dicter :les épisode sur betaseries ou seulement betaseries
